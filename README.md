@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-video-listing](screens/video-listing)
 - [screen-upvote-downvote](screens/upvote-downvote)
 - [react-native-user-profile](modules/user-profile)
+- [screen-upload-media](screens/upload-media)
 
 # Getting started: Frontend
 

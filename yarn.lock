@@ -1217,7 +1217,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/upload-media@file:./screens/upload-media/":
+"@screens/support-send-feedback@file:./screens/support-send-feedback/":
+  version "1.0.0"
+
+"@screens/upload-media@file:./screens/upload-media":
   version "1.0.0"
 
 "@screens/upvote-downvote@file:./screens/upvote-downvote":

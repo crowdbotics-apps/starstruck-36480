@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [privacy-policy]()
 - [screen-photo-library](screens/photo-library)
+- [screen-photo-filter](screens/photo-filter)
 
 # Getting started: Frontend
 

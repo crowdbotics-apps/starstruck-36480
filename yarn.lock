@@ -1222,7 +1222,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/photo-library@file:./screens/photo-library/":
+"@screens/photo-filter@file:./screens/photo-filter/":
+  version "1.0.0"
+
+"@screens/photo-library@file:./screens/photo-library":
   version "1.0.0"
 
 "@screens/support-send-feedback@file:./screens/support-send-feedback":

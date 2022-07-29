@@ -18,6 +18,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/photo-filter": "file:./screens/photo-filter/",
     "@screens/photo-library": "file:./screens/photo-library/",
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "@screens/upload-media": "file:./screens/upload-media/",
